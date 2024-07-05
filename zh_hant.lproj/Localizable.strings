@@ -1,13 +1,13 @@
 "ACTIVATION_FAILED" = "無法有效辨識購買憑證。請再試一遍。";
-"ACTIVATION_REQUIRED_MESSAGE" = "Bloom 尚未被啟用，請到設定頁面啟用憑證。";
-"ACTIVATION_REQUIRED_TITLE" = "需要啟用憑證。";
-"ANIMATIONS" = "選擇動畫";
+"ACTIVATION_REQUIRED_MESSAGE" = "Bloom 尚未被開通，請到設定頁面開通憑證。";
+"ACTIVATION_REQUIRED_TITLE" = "需要開通憑證。";
+"ANIMATIONS" = "動畫";
 "ANIMATION_CONTROLS" = "更多設定";
 "BLACKOUT" = "螢幕黑屏";
 "BLACKOUT_FOOTER" = "當裝置處於「螢幕黑屏」狀態，螢幕會在動畫後關閉。";
 "COLOR" = "顏色";
 "COLOR_MODE" = "顯色模式";
-"COLOR_MODE_FOOTER" = "請選擇Bloom抓取顏色的模板";
+"COLOR_MODE_FOOTER" = "請選擇 Bloom 採取顏色的模板";
 "DISPLAY" = "顯示在：";
 "ENABLED" = "已啟用";
 "ERROR" = "錯誤";
